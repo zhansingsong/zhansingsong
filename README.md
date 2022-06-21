@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm singsong 😝
+
+#### 一些有趣的项目🎨
+
+- [5stars: 一个基于 SVG 技术快速生成 5星好评 的实用工具](https://github.com/zhansingsong/5stars)
+- [wxmp-starter：基于 gulp 搭建，满足小程序基本开发所有需求](https://github.com/zhansingsong/wxmp-starter)
+- [node-jsonpify：一个将请求转换为 jsonp 小工具](https://github.com/zhansingsong/node-jsonpify)
+- [vwrem：一个基于 vw + rem 适配布局的解决方案](https://github.com/zhansingsong/vwrem)
 
 <!--
 **zhansingsong/zhansingsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
