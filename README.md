@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm singsong 😝
 
-一枚前端开发，也了解点后端，喜欢 TypeScript, 工程化, 代码规范, DevOps。
+一枚前端开发，也了解点后端，喜欢 TypeScript, 工程化, 可视化, 代码规范, DevOps。
 
 #### 一些有趣的项目 🎨
 
