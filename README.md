@@ -9,7 +9,7 @@
 - 🛠 **node-jsonpify**：[一个将请求转换为 jsonp 小工具](https://github.com/zhansingsong/node-jsonpify)
 - 📱 **vwrem**：[一个基于 vw + rem 适配布局的解决方案](https://github.com/zhansingsong/vwrem)
 - 🌄 **svg2font**：[一个将 SVG icon 转换为 font icons 实用小工具](https://github.com/zhansingsong/svg2font)
-- 🧩 **orientationchange-fix**：[一个基于CSS3@media特性实现对原生orientationchange修复的实用库](https://github.com/zhansingsong/orientationchange-fix)
+<!-- - 🧩 **orientationchange-fix**：[一个基于CSS3@media特性实现对原生orientationchange修复的实用库](https://github.com/zhansingsong/orientationchange-fix)-->
 
 <!--
 **zhansingsong/zhansingsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
